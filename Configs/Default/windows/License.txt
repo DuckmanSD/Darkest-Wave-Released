@@ -1,0 +1,47 @@
+Thank you for downloading Darkest Wave.  Darkest Wave is a retro shoot em up in explosive color from Duckman Army Games.
+
+
+           ,-.
+       ,--' ~.).
+     ,'         `.
+    ; (((__   __)))
+    ;  ( (#) ( (#)
+    |   \_/___\_/|
+   ,"  ,-'    `__".
+  (   ( ._   ____`.)--._        _
+   `._ `-.`-' \(`-'  _  `-. _,-' `-/`.
+    ,')   `.`._))  ,' `.   `.  ,','  ;
+  .'  .     `--'  /     ).   `.      ;
+ ;     `-        /     '  )         ;
+ \                       ')       ,'
+  \                     ,'       ;
+   \               `~~~'       ,'
+    `.                      _,'
+      `.                ,--'
+        `-._________,--'
+
+
+
+THIS END USER LICENSE AGREEMENT APPLIES TO ALL USE OF THIS APPLICATION.
+
+Scope
+-----
+You may:
+
+Install and use this Application for personal, or commercial use provided you have paid the license fee.
+
+You must not:
+
+use, copy, transfer, distribute modify, adapt, merge, translate, decompile, disassemble, or reverse engineer the Application or part of it except as expressly permitted by this Licence;
+remove, modify, or tamper with any copyright, trademark or other notice;
+use the Application for any illegal, unlawful or immoral purposes.
+
+
+Term
+----
+This License will end automatically if you breach any of the terms.
+When this License ends you must stop all use of the Application and destroy and erase any copies you have.
+
+
+
+Click “ACCEPT” and accept these terms to install and use this Application. If you do not accept them terms you may not continue with the installation and you must not install, use or run this software on this or any other computer.
